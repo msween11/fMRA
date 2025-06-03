@@ -5,3 +5,5 @@ This Readme is obviously a wip.
 findz and center_BS are just technical files.
 
 FUNC_singlerun and SCRIPT_singlerun are functional and script versions of the same file. They do the same things if the parameters are set the same. They perform a single run of the algorithm in the paper on a signal f1,...,f4 with either an aperiodic or uniform shift distribution.  
+
+N_vs_error.m generates two tables that contain the data for plotting error decay against sample size. The plotting file itself is to come. 

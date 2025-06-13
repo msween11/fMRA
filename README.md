@@ -1,6 +1,6 @@
 # fMRA
 Functional Multi-Reference Alignment via Deconvolution
-This Readme is obviously a wip.
+
 
 findz and center_BS are just technical files.
 
